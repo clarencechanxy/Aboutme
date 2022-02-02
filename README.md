@@ -15,33 +15,38 @@ My journey in crypto started with buying some Bitcoin and Ethereum in 2017. Howe
 
 So far web3 projects I'm got involved in: 
 
-TheGreatWave.io, built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
-Bandwagon Pixel Party ft MYRNE in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
-Bandwagon upcoming NFT launch in 2Q2022 (Founder)
+- TheGreatWave.io, built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
+- Bandwagon Pixel Party ft MYRNE in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
+- Bandwagon upcoming NFT launch in 2Q2022 (Founder)
 
 Crypto communities I'm active in: 
 
-SG Lunatics
-Galactic Punks
-The Great Wave 
+- SG Lunatics
+- Galactic Punks
+- The Great Wave 
 
 Projects i'm tracking closely in web3 in line with my interests:
 
-portals (solana) 
-royals.io (ethereum)
-Sound.xyz (ethereum)
-Pixelbands.io (solana) 
-Sandbox (ethereum)
-Decentraland  (ethereum / polygon side chain)
-Pavia (cardano) 
-Pylon (launchpad, 
-Terra)Starterra (launchpad, Terra)
+- portals (solana) 
+- magic eden (solana)
+- Pixelbands.io (solana) 
+- modadao.io (ethereum)
+- royals.io (ethereum)
+- Sound.xyz (ethereum)
+- Sandbox (ethereum)
+- Decentraland  (ethereum / polygon side chain)
+- Pavia (cardano) 
+- Pylon (launchpad, Terra)
+- Starterra (launchpad, Terra)
+- Terraworld (metaverse, Terra)
+- Lunaverse (metaverse, Terra) 
+- Luart (NFT marketplace, Terra)
 
 Problem statements I'm currently thinking about: 
 
 1. How creators can raise capital to fund their creative pursuits via web3
-2. 2. How fans can have a stake in a musical work and benefit by 'investing' in an artist's development
-3. 3. How the music streaming experience can be more immersive (what is the next big leap). For this, i have a litepaper of some initial ideas. Please see here: (https://www.dropbox.com/s/wjcw45dse681rf4/Communify%20Litepaper%20v0.1.pdf?dl=0)
+2. How fans can have a stake in a musical work and benefit by 'investing' in an artist's development
+3. How the music streaming experience can be more immersive (what is the next big leap). For this, i have a litepaper of some initial ideas. Please see here: (https://www.dropbox.com/s/wjcw45dse681rf4/Communify%20Litepaper%20v0.1.pdf?dl=0)
 
 If you'd like to reach out, my email is clarence@bandwagon.sg, my cryto twitter account is @clarcrypto.
 Cheers. 
