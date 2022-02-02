@@ -15,8 +15,8 @@ My journey in crypto started with buying some Bitcoin and Ethereum in 2017. Howe
 
 So far web3 projects I'm got involved in: 
 
-- TheGreatWave.io, built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
-- Bandwagon Pixel Party ft MYRNE in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
+- [TheGreatWave.io](https://www.thegreatwave.io/), built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
+- [Bandwagon Pixel Party ft MYRNE](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
 - Bandwagon upcoming NFT launch in 2Q2022 (Founder)
 
 Crypto communities I'm active in: 
