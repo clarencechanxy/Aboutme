@@ -11,7 +11,7 @@ Clarence grew up in a family where his dad was a forex trader and his mum was a 
 
 # My journey in Crypto
 
-My journey in crypto started with buying some Bitcoin and Ethereum in 2017. However it got serious 2021 when a friend introduced me to the world of DeFi and alt coins. I went down the rabbit hole of projects like Theta, Luna, Ziliqa, Secret, Thorchain, FTM.I started yield farming, getting into NFTs, and now its a dream of mine to utilise web3 and innovate within my passions in entertainment and business development. 
+My journey in crypto started with buying some Bitcoin and Ethereum in 2017. However it got serious 2021 when a friend introduced me to the world of DeFi and alt coins. I went down the rabbit hole of projects like Theta, Luna, Ziliqa, Secret, Thorchain, FTM. I started yield farming, getting into NFTs, and now its a dream of mine to utilise web3 and innovate within my passions in entertainment and business development. 
 
 So far web3 projects I'm got involved in: 
 
