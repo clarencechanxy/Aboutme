@@ -44,9 +44,10 @@ Projects i'm tracking closely in web3 in line with my interests:
 
 Problem statements I'm currently thinking about: 
 
-1. How creators can raise capital to fund their creative pursuits via web3
+1. How creators can raise capital to fund their creative pursuits via web3. [Please read](https://medium.com/thegreatwave/putting-the-power-back-to-the-creators-5882330bae2 ): 
 2. How fans can have a stake in a musical work and benefit by 'investing' in an artist's development
-3. How the music streaming experience can be more immersive (what is the next big leap). For this, i have a litepaper of some initial ideas. Please see here: (https://www.dropbox.com/s/wjcw45dse681rf4/Communify%20Litepaper%20v0.1.pdf?dl=0)
+3. How stream2earn in a metaverse could be the next big leap for music streaming. For this, i have a litepaper of some initial ideas. [Please read here](https://www.dropbox.com/s/wjcw45dse681rf4/Communify%20Litepaper%20v0.1.pdf?dl=0)
 
-If you'd like to reach out, my email is clarence@bandwagon.sg, my cryto twitter account is @clarcrypto.
+If you'd like to reach out, my email is [clarence@bandwagon.sg](mailto:clarence@bandwagon.sg), my cryto twitter account is [@clarcrypto](https://twitter.com/clarcrypto).
+
 Cheers. 
