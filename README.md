@@ -13,17 +13,19 @@ Clarence grew up in a family where his dad was a forex trader and his mum was a 
 
 My journey in crypto started with buying some Bitcoin and Ethereum in 2017. However it got serious 2021 when a friend introduced me to the world of DeFi and alt coins. I went down the rabbit hole of projects like Theta, Luna, Ziliqa, Secret, Thorchain, FTM. I started yield farming, getting into NFTs, and now its a dream of mine to utilise web3 and innovate within my passions in entertainment and business development. 
 
-So far web3 projects I'm got involved in: 
+So far web3 projects I got involved in: 
 
+- Solana Hacker House 2022 (Singapore)
 - [TheGreatWave.io](https://www.thegreatwave.io/), built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
 - [Bandwagon Pixel Party ft MYRNE](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
-- Bandwagon upcoming NFT launch in 2Q2022 (Founder)
+- MetaJam Asia (NFT Festival), Metaverse exhibit (May 2022 - present)
 
 Crypto communities I'm active in: 
 
 - SG Lunatics
 - Galactic Punks
 - The Great Wave 
+- Solana Hacker House SG 
 
 Projects i'm tracking closely in web3 in line with my interests:
 
