@@ -21,7 +21,7 @@ So far web3 initiatives I have been involved in:
 - [MetaJam Asia (NFT Festival)](https://metajam.asia/), Metaverse exhibit (May 2022 - present)
 - [M1NTED (NFT Festival)](https://www.m1nted.asia/), speaker (August 2022)
 - Advisor, [Menyala](https://www.linkedin.com/company/menyala/), founded by Temasek, a global investment firm 
-- CapitaVerse, Creative Director, Capitaland's 1st venture into the metaverse, experimenting with web3 x web2 retail utility and involving top brands including Mastercard, Adidas, DBS, Zouk, Resorts World Sentosa 
+- [CapitaVerse](https://www.capitaland.com/sg/en/shop/malls/discover/DOD/CapitaVerse.html), Creative Director, Capitaland's 1st venture into the metaverse, experimenting with web3 x web2 retail utility and involving top brands including Mastercard, Adidas, DBS, Zouk, Resorts World Sentosa. Built by Bandwagon Labs. 
 - [Miniature Land by Bandwagon Labs], creating a 16 parcel 24/7 entertainment destination in Decentraland
 
 Crypto communities I'm active in: 
