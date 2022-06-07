@@ -7,19 +7,22 @@ He spearheads Singapore’s national music movement, Hear65, which was a joint c
 
 Bandwagon has created content with artists including Liam Gallagher, Dua Lipa, Troy Sivan, Incubus, Imagine Dragons, The Kooks, Why Don’t We, Izzy, 5 Seconds of Summer, Bruno Major, James Bay, Priscilla Abby, Phoenix and more. 
 
-Clarence grew up in a family where his dad was a forex trader and his mum was a stock broker. Investments were part of family life. Clarence’s first encounter with crypto was in 2018 when he bought some Ethereum. However he really got involved in 2021 when he started exploring Alt coins, DeFi, yield farming and NFTs. Besides music, Clarence has a huge passion in crypto & DeFi because financial innovation is no longer just for the wealthy or the institutions. It empowers the everyday man the ability to grow their assets with however much they have and achieve financial freedom. His personal goal is to help his parents, who have left the corporate world to become missionaries in Japan, build passive income through DeFi. Where they can have a growing stream of income without having to deplete their savings and are able to focus fully on their missionary and charitable work.  
+Clarence grew up in a family where his dad was a forex trader and his mum was a stock broker. Investments were part of family life. Clarence’s first encounter with crypto was in 2018 when he bought some Ethereum. However he really got involved in 2021 when he started exploring Alt coins, DeFi, yield farming and NFTs. Besides music, Clarence has a huge passion in crypto & DeFi because financial innovation is no longer just for the wealthy or the institutions. It empowers the everyday man the ability to grow their assets with however much they have and achieve financial freedom. His personal goal is to help his parents, who have left the corporate world to become missionaries in Japan, build passive income through DeFi.
 
 # My journey in Crypto
 
 My journey in crypto started with buying some Bitcoin and Ethereum in 2017. However it got serious 2021 when a friend introduced me to the world of DeFi and alt coins. I went down the rabbit hole of projects like Theta, Luna, Ziliqa, Secret, Thorchain, FTM. I started yield farming, getting into NFTs, and now its a dream of mine to utilise web3 and innovate within my passions in entertainment and business development. 
 
-So far web3 initiatives I got involved in: 
+So far web3 initiatives I have been involved in: 
 
 - Solana Hacker House 2022 (Singapore)
 - [TheGreatWave.io](https://www.thegreatwave.io/), built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
-- [Bandwagon Pixel Party ft MYRNE](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) in Decentraland, 30 Jan 2022, 250 POAPs fully claimed within 20 mins (Founder) 
+- [Bandwagon Pixel Party in Decentraland](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) 50% event-on-event growth
 - [MetaJam Asia (NFT Festival)](https://metajam.asia/), Metaverse exhibit (May 2022 - present)
-- [M1NTED (NFT Festival)](https://www.m1nted.asia/), speaker (June 2022)
+- [M1NTED (NFT Festival)](https://www.m1nted.asia/), speaker (August 2022)
+- Advisor, [Menyala](https://www.linkedin.com/company/menyala/), founded by Temasek, a global investment firm 
+- CapitaVerse, Creative Director, Capitaland's 1st venture into the metaverse, experimenting with web3 x web2 retail utility and involving top brands including Mastercard, Adidas, DBS, Zouk, Resorts World Sentosa 
+- [Miniature Land by Bandwagon Labs], creating a 16 parcel 24/7 entertainment destination in Decentraland
 
 Crypto communities I'm active in: 
 
@@ -27,23 +30,21 @@ Crypto communities I'm active in:
 - Galactic Punks
 - The Great Wave 
 - Solana Hacker House SG 
+- Decentraland 
+- Portals
 
 Projects i'm tracking closely in web3 in line with my interests:
 
-- portals (solana) 
-- magic eden (solana)
+- Portals (solana) 
+- Magic eden (solana)
 - Pixelbands.io (solana) 
 - modadao.io (ethereum)
 - royals.io (ethereum)
 - Sound.xyz (ethereum)
 - Sandbox (ethereum)
 - Decentraland  (ethereum / polygon side chain)
-- Pavia (cardano) 
-- Pylon (launchpad, Terra)
-- Starterra (launchpad, Terra)
-- Terraworld (metaverse, Terra)
-- Lunaverse (metaverse, Terra) 
-- Luart (NFT marketplace, Terra)
+- Beatfoundry (ethereum)
+
 
 Problem statements I'm currently thinking about: 
 
