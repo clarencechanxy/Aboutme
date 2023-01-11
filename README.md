@@ -1,7 +1,7 @@
 # Aboutme
 About Me 
 
-Clarence is the founder of Bandwagon, Southeast Asia’s leading independent music media company whose vision is to champion and spotlight music in Asia. As an Economics graduate he taught himself to code and laid the 1st lines of code for a gig finder called Bandwagon. Today the platform has expanded and reaches over 500,000 readers monthly and over 6,000,000 impressions monthly on Twitter with staff across 3 countries. Bandwagon covers trends, new music, and feature articles about artists, entertainment brands, thought leaders, and has been referenced by The New York Times, Billboard, Techcrunch, Teen Vogue and more. Clarence was recognised as 1 of 20 Future Shapers by PEAK Magazine in 2019. 
+Clarence is the founder of Bandwagon, Southeast Asia’s leading independent music media company whose vision is to champion and spotlight music in Asia. As an Economics graduate he taught himself to code and laid the 1st lines of code for a gig finder called Bandwagon. Today the platform has expanded and reaches over 500,000 readers monthly and over 6,000,000 impressions monthly on Twitter with staff across 3 countries. Bandwagon covers trends, new music, and feature articles about artists, entertainment brands, thought leaders, and has been referenced by The New York Times, Billboard, Techcrunch, Teen Vogue and more. Clarence was recognised in [PRESTIGE 40 under 40 in 2022](https://www.prestigeonline.com/sg/40-under-40/clarence-chan-prestige-40-under-40-2022/), and 1 of 20 [Future Shapers by PEAK Magazine](https://www.thepeakmagazine.com.sg/interviews/clarence-chan-bandwagon-music/) in 2019. 
 
 He spearheads Singapore’s national music movement, Hear65, which was a joint campaign between Bandwagon and Singapore’s governing body for music, National Arts Council. It was launched alongside Senior Parliament Secretary Baey Yam Keng and won Best PR Campaign at the Marketing-Interactive PR Awards 2019, the 1st music project to do so in the history of the awards. 
 
@@ -15,26 +15,29 @@ My journey in crypto started with buying some Bitcoin and Ethereum in 2017. Howe
 
 So far web3 initiatives I have been involved in: 
 
+- [BWLAND](https://www.bandwagonlabs.xyz/bwland) by Bandwagon Labs (Building metaverse infrastructure for the mobile web)
+- 1st wedding on Sandbox, as reported on [ChannelNewsAsia](https://www.channelnewsasia.com/singapore/metaverse-wedding-sandbox-virtual-reality-singapore-first-2960256), [CoinTelegraph](https://cointelegraph.com/news/nifty-news-the-sandbox-hosts-its-first-wedding-hollywood-actor-auctions-photo-of-eye-as-nft-and-more), 联合早报 (Lian He Zao Bao)
+- [Bandwagon Labs](https://twitter.com/bandwagonlabs), 1st in Singapore to be a verified partner of Decentraland Foundation 
+- [Bandwagon Pixel Party in Decentraland](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) 11 concerts in 2022 featuring artists from all across Asia, with partner communities Woodies, DCL Brasil, DEG etc. 
 - Solana Hacker House 2022 (Singapore)
-- [TheGreatWave.io](https://www.thegreatwave.io/), built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor)
-- [Bandwagon Pixel Party in Decentraland](https://www.bandwagon.asia/articles/myrne-metaverse-concert-bandwagon-pixel-party-heres-how-to-tune-in-decentraland-nfts-cryptocurrency-watch-january-2022) 50% event-on-event growth
+- [TheGreatWave.io](https://www.thegreatwave.io/), built on Binance Smart Chain, $1M founding liquidity raise. (Founding DAO member and advisor) [Featured on ChannelNewsAsia (11 Jan 2023)](https://www.channelnewsasia.com/singapore/crypto-support-local-musicians-3192561)
 - [MetaJam Asia (NFT Festival)](https://metajam.asia/), Metaverse exhibit (May 2022 - present)
 - [M1NTED (NFT Festival)](https://www.m1nted.asia/), speaker (August 2022)
 - Advisor, [Menyala](https://www.linkedin.com/company/menyala/), founded by Temasek, a global investment firm 
 - [CapitaVerse](https://www.capitaland.com/sg/en/shop/malls/discover/DOD/CapitaVerse.html), Creative Director, Capitaland's 1st venture into the metaverse, experimenting with web3 x web2 retail utility and involving top brands including Mastercard, Adidas, DBS, Zouk, Resorts World Sentosa. Built by Bandwagon Labs. 
-- [Miniature Land by Bandwagon Labs], creating a 16 parcel 24/7 entertainment destination in Decentraland
 
 Crypto communities I'm active in: 
 
-- SG Lunatics
-- Galactic Punks
+- SMB (Solana Monkey Business)
 - The Great Wave 
 - Solana Hacker House SG 
 - Decentraland 
 - Portals
+- Sandbox 
 
 Projects i'm tracking closely in web3 in line with my interests:
 
+- Otherside (ethereum)
 - Portals (solana) 
 - Magic eden (solana)
 - Pixelbands.io (solana) 
